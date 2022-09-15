@@ -1,0 +1,4 @@
+ODD_NUMBER = 3
+while ODD_NUMBER <= 130 :
+    print(ODD_NUMBER)
+    ODD_NUMBER = ODD_NUMBER + 2

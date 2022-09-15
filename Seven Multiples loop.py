@@ -1,0 +1,4 @@
+SEVEN_POWER = 1
+while SEVEN_POWER <= 11 :
+    print(7*SEVEN_POWER)
+    SEVEN_POWER = SEVEN_POWER + 1
